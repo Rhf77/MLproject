@@ -68,40 +68,7 @@ To capture the complexity and temporal nature of utility data, we employ a hybri
 
 ---
 
-## ⚙️ Implementation Steps
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/utility-forecasting-campus.git
-   cd utility-forecasting-campus
-   ```
-
-2. **Install dependencies**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run preprocessing**  
-   ```bash
-   python preprocess.py
-   ```
-
-4. **Train models**  
-   ```bash
-   python train.py
-   ```
-
-5. **Generate forecasts**  
-   ```bash
-   python forecast.py
-   ```
-
-6. **Visualize results**  
-   ```bash
-   python visualize.py
-   ```
-
----
 
 ## 🛠 Technology Stack
 
@@ -122,12 +89,7 @@ This project supports research in smart building energy efficiency by:
 
 ---
 
-## 🙌 Acknowledgements
 
-- **Effat University – Facilities Management Team**  
-- **UNICON Energy Dataset Contributors**
-
----
 
 ## 📄 License
 
