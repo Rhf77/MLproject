@@ -1,19 +1,19 @@
-# 🔌 Utility Consumption Forecasting on a University Campus
+#  Utility Consumption Forecasting on a University Campus
 
-## 📌 Project Overview
+##  Project Overview
 
 This project aims to optimize utility resource consumption across a university campus through predictive modeling. Leveraging time-series forecasting and building-level metadata, we enable dynamic, demand-based utility scheduling to improve energy efficiency, reduce operational waste, and support long-term sustainability initiatives.
 
 ---
 
-## 📂 Dataset Summary
+##  Dataset Summary
 
 The dataset integrates smart meter readings and infrastructure metadata, providing granular, real-world insights into utility usage.
 
 ### Utilities Monitored
-- ⚡ Electricity (building-level and submetered)
-- 🔥 Gas
-- 💧 Water
+-  Electricity (building-level and submetered)
+- Gas
+-  Water
 
 ### Granularity
 - Hourly consumption records
@@ -31,7 +31,7 @@ The dataset integrates smart meter readings and infrastructure metadata, providi
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 To capture the complexity and temporal nature of utility data, we employ a hybrid modeling strategy combining statistical, machine learning, and deep learning approaches.
 
@@ -56,7 +56,7 @@ To capture the complexity and temporal nature of utility data, we employ a hybri
 
 ---
 
-## 📉 Results
+## Results
 
 | Utility     | Reduction (%) |
 |-------------|----------------|
@@ -70,7 +70,7 @@ To capture the complexity and temporal nature of utility data, we employ a hybri
 
 
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 - **Languages**: Python  
 - **Libraries**: `pandas`, `NumPy`, `scikit-learn`, `XGBoost`, `TensorFlow/Keras`, `statsmodels`  
@@ -79,7 +79,7 @@ To capture the complexity and temporal nature of utility data, we employ a hybri
 
 ---
 
-## 🎓 Academic Contribution
+##  Academic Contribution
 
 This project supports research in smart building energy efficiency by:
 
@@ -91,6 +91,6 @@ This project supports research in smart building energy efficiency by:
 
 
 
-## 📄 License
+##  License
 
 This project is intended for academic and research purposes only. For reuse, collaboration, or licensing inquiries, please contact the project maintainers.
